@@ -12,7 +12,7 @@ NMAP_BANNER = """
  ╚═╝        ╚═╝      ╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     
  
 ==========================================================
-     [+]Network Scnanner and Reconnisesnce tool[+]
+     [+]Network Scnanner and Reconnaissance tool[+]
 """
 print(NMAP_BANNER)
 
